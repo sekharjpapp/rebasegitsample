@@ -19,4 +19,7 @@ public class ResourceController {
     public void feature4() {
         System.out.println("todo 4");
     }
+    public void feature5() {
+        System.out.println("todo 5");
+    }
 }

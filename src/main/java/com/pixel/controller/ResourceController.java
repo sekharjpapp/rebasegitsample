@@ -19,5 +19,7 @@ public class ResourceController {
     public void feature6() {
         System.out.println("feature 6 ");
     }
-
+    public void feature7() {
+        System.out.println("feature 7 ");
+    }
 }

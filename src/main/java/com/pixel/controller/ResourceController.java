@@ -16,4 +16,8 @@ public class ResourceController {
     public void bugFix2() {
         System.out.println("Bug Fix 2 in main");
     }
+    public void feature6() {
+        System.out.println("feature 6 ");
+    }
+
 }

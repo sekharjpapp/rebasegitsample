@@ -10,4 +10,7 @@ public class ResourceController {
     public String getIndex() {
         return "Get Index";
     }
+    public void feature2() {
+        System.out.println("todo ");
+    }
 }

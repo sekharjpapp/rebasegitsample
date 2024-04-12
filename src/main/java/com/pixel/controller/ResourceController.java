@@ -10,4 +10,7 @@ public class ResourceController {
     public String getIndex() {
         return "Get Index";
     }
+    public void bugFix() {
+        System.out.println("Bug Fix in main");
+    }
 }
